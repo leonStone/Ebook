@@ -5,4 +5,4 @@
 
 这里是免费编程电子书项目的书目，[Free programming books](https://github.com/leonStone/free-programming-books/blob/master/free-programming-books.md)。
 
-
+这里是github上的另一个书目库,[programming thinking](https://github.com/programthink/books/blob/master/README.wiki)。
